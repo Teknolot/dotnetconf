@@ -157,7 +157,7 @@
 	/* ----------------------------------------------------------- */
 
 		$('.mu-speakers-slider').slick({
-		  slidesToShow: 5,
+		  slidesToShow: 3,
 		  responsive: [
 		    {
 		      breakpoint: 768,
